@@ -1,0 +1,5 @@
+<a>
+	<x another="attr" has="some" weird="value" but="we" keep="on">
+		<b some="attribute">1</b>
+	</x>
+</a>
